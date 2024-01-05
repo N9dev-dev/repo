@@ -7,8 +7,8 @@
       {
         "name": "RevHeadz+",
         "version": "1.20",
-        "icon": "https://play-lh.googleusercontent.com/MF8IRnS8fwl7Y9sGss4McFpyGV16gumtsnB2kFupkuXFrPLnjwP-_CM5aeQa1NWUiIeM=s96-rw",
-        "down": "",
+        "icon": "",
+        "down": "https://github.com/enmity-mod/tweak/releases/download/v2.2.6/Enmity.ipa",
         "dev": "IbnAlToury",
         "category": "Games",
         "description": "Revheadz, but with all cars",
